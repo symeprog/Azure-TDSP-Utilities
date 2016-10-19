@@ -5,12 +5,11 @@ author: "Team Data Science Process by Microsoft"
 output: 
   html_document: 
     fig_caption: yes
-    number_sections: yes
-    toc: yes
-    theme: journal
     highlight: espresso
-    keep_md: false
-    toc_float: true
+    number_sections: yes
+    theme: journal
+    toc: yes
+    toc_float: yes
 runtime: knit
 ---
 
